@@ -1,0 +1,13 @@
+Scikit's Linear Regression Used (Saved as lr.pickle)
+
+Features in Model:
+#ipl edition no. as 1,2,3...14
+#match no. for batting team
+#venue set as average runs scored in venue in 6 overs
+#innings
+#no. of batsmen
+#no. of bowlers
+#batting team name(Label-Encoded)
+
+Output:
+#output is runs scored in 6 overs by batting team

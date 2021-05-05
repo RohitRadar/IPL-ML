@@ -1,0 +1,789 @@
+season,venue,innings,batting_team,bowling_team,runs,batsmen,bowlers
+5,ahm,1,pun,Kolkata Knight Riders,48,5,3
+5,Maharashtra Cricket Association Stadium,2,kol,Kings XI Punjab,53,4,3
+5,ahm,1,che,Rajasthan Royals,39,4,5
+5,ahm,2,rr,Chennai Super Kings,47,2,3
+5,che,1,mum,Royal Challengers Bangalore,48,3,4
+5,che,2,ban,Mumbai Indians,33,3,4
+5,del,1,del,Kolkata Knight Riders,34,4,4
+5,del,2,kol,Delhi Daredevils,48,4,3
+5,ahm,1,rr,Kings XI Punjab,43,2,3
+5,ahm,2,pun,Rajasthan Royals,40,3,4
+5,ahm,3,pun,Rajasthan Royals,15,3,1
+5,ahm,4,rr,Kings XI Punjab,6,3,1
+5,ahm,1,hyd,Kolkata Knight Riders,43,2,3
+5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,kol,Sunrisers Hyderabad,49,4,5
+5,che,1,che,Royal Challengers Bangalore,45,3,4
+5,che,2,ban,Chennai Super Kings,38,4,3
+5,del,1,del,Mumbai Indians,45,3,4
+5,del,2,mum,Delhi Daredevils,48,3,4
+5,ahm,1,rr,Royal Challengers Bangalore,48,4,4
+5,ahm,2,ban,Rajasthan Royals,49,3,4
+5,kol,1,mum,Kolkata Knight Riders,37,5,3
+5,kol,2,kol,Mumbai Indians,38,3,4
+5,che,1,che,Delhi Daredevils,59,4,3
+5,che,2,del,Chennai Super Kings,40,5,2
+5,che,1,rr,Kings XI Punjab,35,4,3
+5,Maharashtra Cricket Association Stadium,2,pun,Rajasthan Royals,51,4,4
+5,kol,1,kol,Royal Challengers Bangalore,53,2,4
+5,kol,2,ban,Kolkata Knight Riders,41,3,3
+5,che,1,che,Sunrisers Hyderabad,49,2,4
+5,che,2,hyd,Chennai Super Kings,46,3,2
+5,del,1,del,Rajasthan Royals,51,3,5
+5,del,2,rr,Delhi Daredevils,42,3,3
+5,mum,1,pun,Mumbai Indians,57,2,3
+5,mum,2,mum,Kings XI Punjab,17,5,3
+5,che,1,ban,Sunrisers Hyderabad,47,3,3
+5,che,2,hyd,Royal Challengers Bangalore,65,2,4
+5,ahm,1,mum,Rajasthan Royals,31,4,4
+5,ahm,2,rr,Mumbai Indians,42,3,3
+5,ahm,1,pun,Delhi Daredevils,41,3,3
+5,Maharashtra Cricket Association Stadium,2,del,Kings XI Punjab,47,3,3
+5,Maharashtra Cricket Association Stadium,1,hyd,Rajasthan Royals,35,4,4
+5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,rr,Sunrisers Hyderabad,36,2,3
+5,mum,1,mum,Chennai Super Kings,31,5,3
+5,mum,2,che,Mumbai Indians,90,2,4
+5,mum,1,del,Sunrisers Hyderabad,40,3,3
+5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,hyd,Delhi Daredevils,50,2,4
+5,mum,1,mum,Sunrisers Hyderabad,46,3,3
+5,mum,2,hyd,Mumbai Indians,52,2,3
+5,che,1,che,Kings XI Punjab,54,3,4
+5,che,2,pun,Chennai Super Kings,39,4,3
+5,del,1,del,Royal Challengers Bangalore,38,4,4
+5,del,2,ban,Delhi Daredevils,50,2,4
+5,pun,1,hyd,Kings XI Punjab,56,3,3
+5,pun,2,pun,Sunrisers Hyderabad,36,4,3
+5,che,1,che,Kolkata Knight Riders,53,3,3
+5,che,2,kol,Chennai Super Kings,54,4,4
+5,kol,1,che,Kolkata Knight Riders,69,6,4
+5,kol,2,kol,Chennai Super Kings,38,3,2
+5,che,1,ban,Delhi Daredevils,79,10,7
+5,del,2,del,Kings XI Punjab,41,2,3
+5,mum,1,mum,Rajasthan Royals,47,3,4
+5,mum,2,rr,Mumbai Indians,55,3,4
+5,che,1,kol,Royal Challengers Bangalore,61,3,5
+5,che,2,ban,Kolkata Knight Riders,62,4,4
+5,hyd,1,hyd,Chennai Super Kings,76,2,3
+5,hyd,2,che,Sunrisers Hyderabad,54,4,4
+5,pun,1,mum,Kings XI Punjab,51,2,4
+5,pun,2,pun,Mumbai Indians,45,4,4
+5,pun,1,rr,Delhi Daredevils,43,2,3
+5,Brabourne Stadium,2,del,Rajasthan Royals,55,4,4
+5,che,1,che,Royal Challengers Bangalore,37,3,4
+5,che,2,ban,Chennai Super Kings,42,4,3
+5,kol,1,kol,Sunrisers Hyderabad,55,2,4
+5,kol,2,hyd,Kolkata Knight Riders,33,5,4
+5,mum,1,del,Mumbai Indians,44,4,4
+5,mum,2,mum,Delhi Daredevils,41,6,3
+5,che,1,ban,Kings XI Punjab,68,2,3
+5,che,2,pun,Royal Challengers Bangalore,34,6,3
+5,ban,1,hyd,Rajasthan Royals,56,3,5
+5,Brabourne Stadium,2,rr,Sunrisers Hyderabad,36,4,3
+5,kol,1,kol,Delhi Daredevils,50,3,3
+5,kol,2,del,Kolkata Knight Riders,36,2,3
+5,che,1,che,Mumbai Indians,44,3,4
+5,che,2,mum,Chennai Super Kings,61,2,3
+5,kol,1,pun,Kolkata Knight Riders,45,3,4
+5,kol,2,kol,Kings XI Punjab,57,3,4
+5,kol,1,hyd,Delhi Daredevils,41,4,3
+5,Shaheed Veer Narayan Singh International Stadium,2,del,Sunrisers Hyderabad,49,3,4
+5,mum,1,ban,Mumbai Indians,39,3,4
+5,mum,2,mum,Royal Challengers Bangalore,45,3,4
+5,che,1,che,Rajasthan Royals,36,4,4
+5,che,2,rr,Chennai Super Kings,40,3,2
+5,hyd,1,hyd,Kings XI Punjab,56,2,4
+5,hyd,2,pun,Sunrisers Hyderabad,47,3,4
+5,hyd,1,che,Delhi Daredevils,16,2,2
+5,Shaheed Veer Narayan Singh International Stadium,2,del,Chennai Super Kings,28,4,3
+5,pun,1,pun,Royal Challengers Bangalore,72,6,5
+5,pun,2,ban,Kings XI Punjab,61,4,4
+5,mum,1,mum,Kolkata Knight Riders,46,4,3
+5,mum,2,kol,Mumbai Indians,50,4,4
+5,hyd,1,hyd,Royal Challengers Bangalore,68,3,5
+5,hyd,2,ban,Sunrisers Hyderabad,83,5,5
+5,pun,1,pun,Chennai Super Kings,41,5,3
+5,pun,2,che,Kings XI Punjab,47,4,4
+5,pun,1,rr,Kolkata Knight Riders,66,2,4
+5,Brabourne Stadium,2,kol,Rajasthan Royals,53,4,3
+5,che,1,del,Royal Challengers Bangalore,54,2,4
+5,che,2,ban,Delhi Daredevils,2,2,2
+5,hyd,1,hyd,Mumbai Indians,29,5,3
+5,hyd,2,mum,Sunrisers Hyderabad,38,2,4
+5,mum,1,mum,Chennai Super Kings,48,2,2
+5,mum,2,che,Mumbai Indians,54,4,3
+5,mum,1,ban,Rajasthan Royals,41,2,4
+5,Maharashtra Cricket Association Stadium,2,rr,Royal Challengers Bangalore,40,4,3
+5,Maharashtra Cricket Association Stadium,1,ban,Chennai Super Kings,29,4,2
+5,JSCA International Stadium Complex,2,che,Royal Challengers Bangalore,34,3,3
+5,kol,1,mum,Chennai Super Kings,61,3,4
+5,kol,2,che,Mumbai Indians,31,3,3
+6,mum,1,mum,Rising Pune Supergiants,37,6,3
+6,mum,2,pun,Mumbai Indians,57,2,2
+6,kol,1,del,Kolkata Knight Riders,35,6,3
+6,kol,2,kol,Delhi Daredevils,47,2,3
+6,pun,1,pun,Gujarat Lions,52,2,4
+6,pun,2,pun,Kings XI Punjab,57,3,4
+6,che,1,ban,Sunrisers Hyderabad,49,3,3
+6,che,2,hyd,Royal Challengers Bangalore,56,3,4
+6,kol,1,kol,Mumbai Indians,40,3,3
+6,kol,2,mum,Kolkata Knight Riders,53,3,3
+6,kol,1,pun,Gujarat Lions,57,3,4
+6,Saurashtra Cricket Association Stadium,2,pun,Rising Pune Supergiants,62,2,4
+6,del,1,pun,Delhi Daredevils,37,3,4
+6,del,2,del,Kings XI Punjab,28,3,4
+6,hyd,1,hyd,Kolkata Knight Riders,36,4,3
+6,hyd,2,kol,Sunrisers Hyderabad,36,2,3
+6,mum,1,mum,Gujarat Lions,31,4,2
+6,mum,2,pun,Mumbai Indians,42,3,4
+6,pun,1,pun,Kings XI Punjab,49,3,4
+6,pun,2,pun,Rising Pune Supergiants,50,2,3
+6,che,1,ban,Delhi Daredevils,63,3,3
+6,che,2,del,Royal Challengers Bangalore,51,4,3
+6,hyd,1,mum,Sunrisers Hyderabad,40,4,4
+6,hyd,2,hyd,Mumbai Indians,33,3,4
+6,pun,1,pun,Kolkata Knight Riders,41,3,3
+6,pun,2,kol,Kings XI Punjab,65,2,4
+6,mum,1,ban,Mumbai Indians,49,3,3
+6,mum,2,mum,Royal Challengers Bangalore,51,3,3
+6,mum,1,pun,Sunrisers Hyderabad,50,3,4
+6,Saurashtra Cricket Association Stadium,2,hyd,Gujarat Lions,63,2,4
+6,Saurashtra Cricket Association Stadium,1,ban,Rising Pune Supergiants,48,3,3
+6,Maharashtra Cricket Association Stadium,2,pun,Royal Challengers Bangalore,36,5,4
+6,del,1,del,Mumbai Indians,41,3,4
+6,del,2,mum,Delhi Daredevils,52,3,4
+6,hyd,1,pun,Sunrisers Hyderabad,35,4,4
+6,hyd,2,hyd,Kings XI Punjab,65,2,4
+6,hyd,1,ban,Gujarat Lions,50,3,4
+6,Saurashtra Cricket Association Stadium,2,pun,Royal Challengers Bangalore,72,2,4
+6,Saurashtra Cricket Association Stadium,1,pun,Kolkata Knight Riders,31,3,4
+6,Maharashtra Cricket Association Stadium,2,kol,Rising Pune Supergiants,59,4,3
+6,pun,1,mum,Kings XI Punjab,39,3,3
+6,pun,2,pun,Mumbai Indians,40,4,3
+6,hyd,1,hyd,Rising Pune Supergiants,27,5,3
+6,hyd,2,pun,Sunrisers Hyderabad,46,3,3
+6,del,1,pun,Delhi Daredevils,71,2,3
+6,del,2,del,Gujarat Lions,22,5,2
+6,mum,1,kol,Mumbai Indians,59,2,4
+6,mum,2,mum,Kolkata Knight Riders,64,3,4
+6,mum,1,pun,Gujarat Lions,48,3,2
+6,Maharashtra Cricket Association Stadium,2,pun,Rising Pune Supergiants,72,2,4
+6,del,1,del,Kolkata Knight Riders,37,5,3
+6,del,2,kol,Delhi Daredevils,43,4,2
+6,hyd,1,hyd,Royal Challengers Bangalore,49,3,5
+6,hyd,2,ban,Sunrisers Hyderabad,45,3,3
+6,hyd,1,pun,Gujarat Lions,59,2,3
+6,Saurashtra Cricket Association Stadium,2,pun,Kings XI Punjab,36,4,5
+6,Saurashtra Cricket Association Stadium,1,pun,Mumbai Indians,54,3,4
+6,Maharashtra Cricket Association Stadium,2,mum,Rising Pune Supergiants,47,3,3
+6,che,1,ban,Kolkata Knight Riders,40,3,3
+6,che,2,kol,Royal Challengers Bangalore,37,4,5
+6,ban,1,pun,Delhi Daredevils,35,5,4
+6,Saurashtra Cricket Association Stadium,2,del,Gujarat Lions,61,2,3
+6,kol,1,kol,Kings XI Punjab,40,2,4
+6,kol,2,pun,Kolkata Knight Riders,37,5,3
+6,del,1,del,Rising Pune Supergiants,48,3,3
+6,del,2,pun,Delhi Daredevils,50,2,3
+6,hyd,1,pun,Sunrisers Hyderabad,26,5,3
+6,hyd,2,hyd,Gujarat Lions,38,4,3
+6,che,1,pun,Royal Challengers Bangalore,60,3,5
+6,che,2,ban,Rising Pune Supergiants,46,2,3
+6,pun,1,pun,Delhi Daredevils,45,3,4
+6,pun,2,del,Kings XI Punjab,51,2,5
+6,pun,1,hyd,Mumbai Indians,51,2,4
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,mum,Sunrisers Hyderabad,32,7,3
+6,kol,1,kol,Gujarat Lions,28,6,3
+6,kol,2,pun,Kolkata Knight Riders,46,3,4
+6,pun,1,ban,Kings XI Punjab,56,2,5
+6,pun,2,pun,Royal Challengers Bangalore,50,3,4
+6,pun,1,hyd,Rising Pune Supergiants,34,3,2
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,pun,Sunrisers Hyderabad,25,4,3
+6,che,1,ban,Mumbai Indians,25,4,4
+6,che,2,mum,Royal Challengers Bangalore,39,3,4
+6,hyd,1,hyd,Delhi Daredevils,51,2,3
+6,hyd,2,del,Sunrisers Hyderabad,50,3,4
+6,hyd,1,mum,Kings XI Punjab,21,4,3
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,pun,Mumbai Indians,32,3,4
+6,che,1,ban,Gujarat Lions,42,3,4
+6,che,2,pun,Royal Challengers Bangalore,41,4,4
+6,kol,1,pun,Kolkata Knight Riders,37,4,3
+6,kol,2,kol,Rising Pune Supergiants,66,4,4
+6,pun,1,pun,Sunrisers Hyderabad,47,3,4
+6,pun,2,hyd,Kings XI Punjab,55,2,6
+6,pun,1,mum,Delhi Daredevils,45,2,3
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,del,Mumbai Indians,49,4,4
+6,kol,1,kol,Royal Challengers Bangalore,51,3,4
+6,kol,2,ban,Kolkata Knight Riders,63,2,4
+6,kol,1,del,Rising Pune Supergiants,28,4,3
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,pun,Delhi Daredevils,44,3,3
+6,che,1,ban,Kings XI Punjab,63,2,5
+6,che,2,pun,Royal Challengers Bangalore,59,6,5
+6,ban,1,kol,Gujarat Lions,44,4,3
+6,Green Park,2,pun,Kolkata Knight Riders,55,5,3
+6,Green Park,1,hyd,Delhi Daredevils,46,2,4
+6,Shaheed Veer Narayan Singh International Stadium,2,del,Sunrisers Hyderabad,37,3,3
+6,Shaheed Veer Narayan Singh International Stadium,1,pun,Rising Pune Supergiants,52,2,4
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,pun,Kings XI Punjab,44,3,3
+6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,mum,Gujarat Lions,49,5,3
+6,Green Park,2,pun,Mumbai Indians,70,3,4
+6,kol,1,kol,Sunrisers Hyderabad,48,3,4
+6,kol,2,hyd,Kolkata Knight Riders,48,3,4
+6,kol,1,del,Royal Challengers Bangalore,43,3,5
+6,Shaheed Veer Narayan Singh International Stadium,2,ban,Delhi Daredevils,49,4,2
+6,che,1,pun,Royal Challengers Bangalore,23,5,3
+6,che,2,ban,Gujarat Lions,31,7,3
+6,del,1,hyd,Kolkata Knight Riders,43,3,3
+6,del,2,kol,Sunrisers Hyderabad,46,3,4
+6,del,1,pun,Sunrisers Hyderabad,38,4,4
+6,del,2,hyd,Gujarat Lions,46,4,4
+6,che,1,hyd,Royal Challengers Bangalore,59,2,3
+6,che,2,ban,Sunrisers Hyderabad,59,2,4
+7,hyd,1,hyd,Royal Challengers Bangalore,59,3,5
+7,hyd,2,ban,Sunrisers Hyderabad,54,3,4
+7,hyd,1,mum,Rising Pune Supergiant,61,3,4
+7,Maharashtra Cricket Association Stadium,2,pun,Mumbai Indians,59,3,4
+7,Maharashtra Cricket Association Stadium,1,pun,Kolkata Knight Riders,52,3,4
+7,Saurashtra Cricket Association Stadium,2,kol,Gujarat Lions,73,2,4
+7,Saurashtra Cricket Association Stadium,1,ban,Delhi Daredevils,41,4,4
+7,ban,2,del,Royal Challengers Bangalore,43,4,4
+7,ban,1,pun,Kings XI Punjab,35,3,3
+7,Holkar Cricket Stadium,2,pun,Rising Pune Supergiant,56,4,4
+7,hyd,1,pun,Sunrisers Hyderabad,40,4,4
+7,hyd,2,hyd,Gujarat Lions,59,3,4
+7,mum,1,kol,Mumbai Indians,59,4,4
+7,mum,2,mum,Kolkata Knight Riders,49,2,4
+7,mum,1,ban,Kings XI Punjab,23,5,4
+7,Holkar Cricket Stadium,2,pun,Royal Challengers Bangalore,62,2,4
+7,Holkar Cricket Stadium,1,del,Rising Pune Supergiant,62,3,3
+7,Maharashtra Cricket Association Stadium,2,pun,Delhi Daredevils,50,4,4
+7,mum,1,hyd,Mumbai Indians,34,2,3
+7,mum,2,mum,Sunrisers Hyderabad,61,4,4
+7,kol,1,pun,Kolkata Knight Riders,57,3,5
+7,kol,2,kol,Kings XI Punjab,76,3,4
+7,che,1,ban,Mumbai Indians,41,2,3
+7,che,2,mum,Royal Challengers Bangalore,21,6,4
+7,ban,1,pun,Gujarat Lions,64,4,4
+7,Saurashtra Cricket Association Stadium,2,pun,Rising Pune Supergiant,61,2,5
+7,kol,1,kol,Sunrisers Hyderabad,40,4,4
+7,kol,2,hyd,Kolkata Knight Riders,45,2,4
+7,del,1,del,Kings XI Punjab,49,2,4
+7,del,2,pun,Delhi Daredevils,40,5,4
+7,mum,1,pun,Mumbai Indians,46,3,4
+7,mum,2,mum,Gujarat Lions,56,3,4
+7,che,1,pun,Royal Challengers Bangalore,55,2,4
+7,che,2,ban,Rising Pune Supergiant,42,3,4
+7,del,1,del,Kolkata Knight Riders,53,2,5
+7,del,2,kol,Delhi Daredevils,49,5,3
+7,hyd,1,hyd,Kings XI Punjab,29,3,3
+7,hyd,2,pun,Sunrisers Hyderabad,51,4,5
+7,hyd,1,ban,Gujarat Lions,45,2,4
+7,Saurashtra Cricket Association Stadium,2,pun,Royal Challengers Bangalore,57,4,3
+7,hyd,1,hyd,Delhi Daredevils,39,3,4
+7,hyd,2,del,Sunrisers Hyderabad,56,3,4
+7,hyd,1,pun,Mumbai Indians,46,3,4
+7,Holkar Cricket Stadium,2,mum,Kings XI Punjab,82,3,4
+7,kol,1,kol,Gujarat Lions,65,3,5
+7,kol,2,pun,Kolkata Knight Riders,72,3,3
+7,mum,1,mum,Delhi Daredevils,48,4,3
+7,mum,2,del,Mumbai Indians,23,7,3
+7,mum,1,hyd,Rising Pune Supergiant,45,2,4
+7,Maharashtra Cricket Association Stadium,2,pun,Sunrisers Hyderabad,55,3,4
+7,Maharashtra Cricket Association Stadium,1,pun,Gujarat Lions,50,3,5
+7,Saurashtra Cricket Association Stadium,2,pun,Kings XI Punjab,50,4,4
+7,kol,1,kol,Royal Challengers Bangalore,65,3,4
+7,kol,2,ban,Kolkata Knight Riders,39,6,2
+7,mum,1,pun,Mumbai Indians,48,2,4
+7,mum,2,mum,Rising Pune Supergiant,44,3,4
+7,mum,1,pun,Kolkata Knight Riders,57,2,3
+7,Maharashtra Cricket Association Stadium,2,kol,Rising Pune Supergiant,45,3,4
+7,che,1,ban,Gujarat Lions,35,5,3
+7,che,2,pun,Royal Challengers Bangalore,49,4,2
+7,kol,1,del,Kolkata Knight Riders,53,3,5
+7,kol,2,kol,Delhi Daredevils,47,3,5
+7,pun,1,hyd,Kings XI Punjab,60,2,4
+7,pun,2,pun,Sunrisers Hyderabad,59,4,4
+7,pun,1,pun,Royal Challengers Bangalore,43,3,4
+7,Maharashtra Cricket Association Stadium,2,ban,Rising Pune Supergiant,39,4,4
+7,Maharashtra Cricket Association Stadium,1,pun,Mumbai Indians,48,5,4
+7,Saurashtra Cricket Association Stadium,2,mum,Gujarat Lions,61,3,6
+7,Saurashtra Cricket Association Stadium,3,mum,Gujarat Lions,11,2,1
+7,Saurashtra Cricket Association Stadium,4,pun,Mumbai Indians,6,2,1
+7,pun,1,del,Kings XI Punjab,25,5,3
+7,pun,2,pun,Delhi Daredevils,50,2,3
+7,hyd,1,hyd,Kolkata Knight Riders,79,2,6
+7,hyd,2,kol,Sunrisers Hyderabad,44,4,4
+7,mum,1,ban,Mumbai Indians,52,4,5
+7,mum,2,mum,Royal Challengers Bangalore,55,3,4
+7,mum,1,pun,Rising Pune Supergiant,55,2,4
+7,Maharashtra Cricket Association Stadium,2,pun,Gujarat Lions,43,5,3
+7,del,1,hyd,Delhi Daredevils,66,3,4
+7,del,2,del,Sunrisers Hyderabad,62,3,4
+7,kol,1,kol,Rising Pune Supergiant,41,4,3
+7,kol,2,pun,Kolkata Knight Riders,74,3,3
+7,del,1,pun,Delhi Daredevils,58,4,4
+7,del,2,del,Gujarat Lions,63,3,3
+7,che,1,pun,Royal Challengers Bangalore,35,4,4
+7,che,2,ban,Kings XI Punjab,46,5,3
+7,hyd,1,pun,Sunrisers Hyderabad,35,3,5
+7,hyd,2,hyd,Rising Pune Supergiant,47,4,3
+7,del,1,mum,Delhi Daredevils,60,2,3
+7,del,2,del,Mumbai Indians,35,7,4
+7,che,1,ban,Kolkata Knight Riders,40,5,3
+7,che,2,kol,Royal Challengers Bangalore,105,2,4
+7,pun,1,pun,Gujarat Lions,44,3,4
+7,pun,2,pun,Kings XI Punjab,58,2,3
+7,hyd,1,mum,Sunrisers Hyderabad,36,4,4
+7,hyd,2,hyd,Mumbai Indians,43,3,4
+7,pun,1,pun,Kolkata Knight Riders,41,4,3
+7,pun,2,kol,Kings XI Punjab,61,3,4
+7,pun,1,pun,Delhi Daredevils,50,4,3
+7,Green Park,2,del,Gujarat Lions,64,4,4
+7,mum,1,pun,Mumbai Indians,71,3,5
+7,mum,2,mum,Kings XI Punjab,68,2,4
+7,del,1,del,Rising Pune Supergiant,54,4,4
+7,del,2,pun,Delhi Daredevils,53,4,3
+7,del,1,pun,Sunrisers Hyderabad,61,2,4
+7,Green Park,2,hyd,Gujarat Lions,47,4,3
+7,kol,1,mum,Kolkata Knight Riders,51,3,4
+7,kol,2,kol,Mumbai Indians,53,4,3
+7,kol,1,pun,Rising Pune Supergiant,32,6,3
+7,Maharashtra Cricket Association Stadium,2,pun,Kings XI Punjab,43,3,5
+7,del,1,ban,Delhi Daredevils,37,3,3
+7,del,2,del,Royal Challengers Bangalore,42,4,4
+7,mum,1,pun,Mumbai Indians,33,4,4
+7,mum,2,mum,Rising Pune Supergiant,42,5,4
+7,che,1,hyd,Kolkata Knight Riders,30,3,3
+7,che,2,kol,Sunrisers Hyderabad,48,5,5
+7,che,1,kol,Mumbai Indians,25,5,4
+7,che,2,mum,Kolkata Knight Riders,36,5,4
+7,hyd,1,mum,Rising Pune Supergiant,32,4,4
+7,hyd,2,pun,Mumbai Indians,38,3,5
+9,che,1,ban,Chennai Super Kings,33,4,2
+9,che,2,che,Royal Challengers Bangalore,16,3,3
+9,kol,1,hyd,Kolkata Knight Riders,54,2,4
+9,kol,2,kol,Sunrisers Hyderabad,47,3,4
+9,mum,1,del,Mumbai Indians,45,4,4
+9,mum,2,mum,Delhi Capitals,46,4,3
+9,mum,1,pun,Rajasthan Royals,32,3,4
+9,Sawai Mansingh Stadium,2,rr,Kings XI Punjab,64,2,3
+9,del,1,del,Chennai Super Kings,43,3,3
+9,del,2,che,Delhi Capitals,58,3,3
+9,kol,1,kol,Kings XI Punjab,53,4,5
+9,kol,2,pun,Kolkata Knight Riders,51,4,3
+9,kol,1,mum,Royal Challengers Bangalore,52,2,3
+9,ban,2,ban,Mumbai Indians,60,3,5
+9,hyd,1,rr,Sunrisers Hyderabad,35,3,4
+9,hyd,2,hyd,Rajasthan Royals,69,2,4
+9,pun,1,mum,Kings XI Punjab,62,3,4
+9,pun,2,pun,Mumbai Indians,38,2,3
+9,del,1,kol,Delhi Capitals,36,3,4
+9,del,2,del,Kolkata Knight Riders,45,3,4
+9,del,3,del,Kolkata Knight Riders,10,2,1
+9,del,4,kol,Delhi Capitals,7,3,1
+9,hyd,1,hyd,Royal Challengers Bangalore,59,2,4
+9,hyd,2,ban,Sunrisers Hyderabad,30,5,3
+9,che,1,che,Rajasthan Royals,29,5,3
+9,che,2,rr,Chennai Super Kings,45,5,3
+9,pun,1,pun,Delhi Capitals,54,4,4
+9,pun,2,del,Kings XI Punjab,49,3,4
+9,pun,1,ban,Rajasthan Royals,48,2,3
+9,Sawai Mansingh Stadium,2,rr,Royal Challengers Bangalore,55,2,3
+9,mum,1,mum,Chennai Super Kings,40,3,3
+9,mum,2,che,Mumbai Indians,34,5,3
+9,del,1,del,Sunrisers Hyderabad,36,3,3
+9,del,2,hyd,Delhi Capitals,62,2,4
+9,del,1,ban,Kolkata Knight Riders,53,2,4
+9,ban,2,kol,Royal Challengers Bangalore,59,3,3
+9,che,1,che,Kings XI Punjab,54,2,4
+9,che,2,pun,Chennai Super Kings,46,4,3
+9,hyd,1,mum,Sunrisers Hyderabad,30,4,3
+9,hyd,2,hyd,Mumbai Indians,39,4,4
+9,hyd,1,ban,Delhi Capitals,40,3,3
+9,ban,2,del,Royal Challengers Bangalore,53,3,3
+9,ban,1,rr,Kolkata Knight Riders,28,3,3
+9,Sawai Mansingh Stadium,2,kol,Rajasthan Royals,65,2,3
+9,pun,1,hyd,Kings XI Punjab,27,3,3
+9,pun,2,pun,Sunrisers Hyderabad,38,3,4
+9,che,1,kol,Chennai Super Kings,29,6,3
+9,che,2,che,Kolkata Knight Riders,40,4,3
+9,mum,1,pun,Mumbai Indians,50,2,3
+9,mum,2,mum,Kings XI Punjab,50,3,3
+9,mum,1,rr,Chennai Super Kings,54,5,3
+9,Sawai Mansingh Stadium,2,che,Rajasthan Royals,24,6,3
+9,kol,1,kol,Delhi Capitals,41,3,4
+9,kol,2,del,Kolkata Knight Riders,57,4,3
+9,mum,1,mum,Rajasthan Royals,57,2,4
+9,mum,2,rr,Mumbai Indians,59,2,4
+9,pun,1,pun,Royal Challengers Bangalore,60,2,3
+9,pun,2,ban,Kings XI Punjab,63,3,4
+9,kol,1,kol,Chennai Super Kings,49,3,4
+9,kol,2,che,Kolkata Knight Riders,44,4,4
+9,hyd,1,del,Sunrisers Hyderabad,51,4,3
+9,hyd,2,hyd,Delhi Capitals,40,2,3
+9,mum,1,ban,Mumbai Indians,45,3,3
+9,mum,2,mum,Royal Challengers Bangalore,67,2,4
+9,pun,1,pun,Rajasthan Royals,39,3,3
+9,pun,2,rr,Kings XI Punjab,54,3,2
+9,hyd,1,che,Sunrisers Hyderabad,41,2,3
+9,hyd,2,hyd,Chennai Super Kings,68,3,3
+8,mum,1,mum,Chennai Super Kings,39,4,2
+8,mum,2,che,Mumbai Indians,42,3,4
+8,pun,1,del,Kings XI Punjab,45,3,5
+8,pun,2,pun,Delhi Daredevils,73,4,4
+8,kol,1,ban,Kolkata Knight Riders,52,3,3
+8,kol,2,kol,Royal Challengers Bangalore,68,4,4
+8,hyd,1,rr,Sunrisers Hyderabad,48,3,3
+8,hyd,2,hyd,Rajasthan Royals,57,3,4
+8,che,1,kol,Chennai Super Kings,64,4,5
+8,che,2,che,Kolkata Knight Riders,75,3,4
+8,che,1,rr,Delhi Daredevils,51,4,3
+8,Sawai Mansingh Stadium,2,del,Rajasthan Royals,60,4,4
+8,hyd,1,mum,Sunrisers Hyderabad,54,3,4
+8,hyd,2,hyd,Mumbai Indians,56,2,4
+8,hyd,1,pun,Royal Challengers Bangalore,50,5,3
+8,ban,2,ban,Kings XI Punjab,41,4,4
+8,mum,1,mum,Delhi Daredevils,84,2,4
+8,mum,2,del,Mumbai Indians,53,3,4
+8,kol,1,kol,Sunrisers Hyderabad,49,3,4
+8,kol,2,hyd,Kolkata Knight Riders,46,4,4
+8,kol,1,rr,Royal Challengers Bangalore,52,3,4
+8,ban,2,ban,Rajasthan Royals,64,3,4
+8,pun,1,pun,Chennai Super Kings,75,2,3
+8,pun,2,che,Kings XI Punjab,53,4,4
+8,kol,1,kol,Delhi Daredevils,50,3,3
+8,kol,2,del,Kolkata Knight Riders,56,5,4
+8,mum,1,mum,Royal Challengers Bangalore,60,4,4
+8,mum,2,ban,Mumbai Indians,55,4,4
+8,mum,1,rr,Kolkata Knight Riders,48,2,4
+8,Sawai Mansingh Stadium,2,kol,Rajasthan Royals,53,3,4
+8,pun,1,pun,Sunrisers Hyderabad,49,2,4
+8,pun,2,hyd,Kings XI Punjab,40,5,3
+8,pun,1,che,Rajasthan Royals,69,3,5
+8,Maharashtra Cricket Association Stadium,2,rr,Chennai Super Kings,35,5,3
+8,kol,1,kol,Kings XI Punjab,50,3,4
+8,kol,2,pun,Kolkata Knight Riders,73,2,5
+8,kol,1,del,Royal Challengers Bangalore,28,4,3
+8,ban,2,ban,Delhi Daredevils,43,4,4
+8,hyd,1,che,Sunrisers Hyderabad,27,3,4
+8,hyd,2,hyd,Chennai Super Kings,40,5,3
+8,hyd,1,mum,Rajasthan Royals,43,3,4
+8,Sawai Mansingh Stadium,2,rr,Mumbai Indians,43,4,4
+8,del,1,pun,Delhi Daredevils,51,4,3
+8,del,2,del,Kings XI Punjab,48,5,3
+8,mum,1,hyd,Mumbai Indians,51,6,3
+8,mum,2,mum,Sunrisers Hyderabad,22,5,3
+8,mum,1,ban,Chennai Super Kings,52,3,3
+8,ban,2,che,Royal Challengers Bangalore,55,4,4
+8,hyd,1,hyd,Kings XI Punjab,37,5,2
+8,hyd,2,pun,Sunrisers Hyderabad,44,2,3
+8,del,1,del,Kolkata Knight Riders,57,2,5
+8,del,2,kol,Delhi Daredevils,51,6,4
+8,del,1,che,Mumbai Indians,51,3,4
+8,Maharashtra Cricket Association Stadium,2,mum,Chennai Super Kings,50,2,4
+8,Maharashtra Cricket Association Stadium,1,hyd,Rajasthan Royals,39,3,4
+8,Sawai Mansingh Stadium,2,rr,Sunrisers Hyderabad,43,3,4
+8,Sawai Mansingh Stadium,1,ban,Kolkata Knight Riders,40,2,4
+8,ban,2,kol,Royal Challengers Bangalore,51,2,3
+8,ban,1,che,Delhi Daredevils,56,2,4
+8,Maharashtra Cricket Association Stadium,2,del,Chennai Super Kings,59,4,3
+8,Maharashtra Cricket Association Stadium,1,ban,Mumbai Indians,43,2,4
+8,ban,2,mum,Royal Challengers Bangalore,40,5,3
+8,del,1,del,Rajasthan Royals,62,3,5
+8,del,2,rr,Delhi Daredevils,79,2,5
+8,kol,1,che,Kolkata Knight Riders,57,3,4
+8,kol,2,kol,Chennai Super Kings,56,4,3
+8,kol,1,pun,Mumbai Indians,49,2,3
+8,Holkar Cricket Stadium,2,mum,Kings XI Punjab,39,3,4
+8,Holkar Cricket Stadium,1,ban,Chennai Super Kings,47,3,3
+8,Maharashtra Cricket Association Stadium,2,che,Royal Challengers Bangalore,42,3,3
+8,hyd,1,del,Sunrisers Hyderabad,60,3,4
+8,hyd,2,hyd,Delhi Daredevils,61,2,4
+8,mum,1,mum,Kolkata Knight Riders,56,2,5
+8,mum,2,kol,Mumbai Indians,47,4,3
+8,mum,1,rr,Kings XI Punjab,45,4,4
+8,Holkar Cricket Stadium,2,pun,Rajasthan Royals,34,4,4
+8,hyd,1,hyd,Royal Challengers Bangalore,38,3,4
+8,hyd,2,ban,Sunrisers Hyderabad,55,3,4
+8,hyd,1,rr,Kings XI Punjab,63,3,4
+8,Sawai Mansingh Stadium,2,pun,Rajasthan Royals,33,5,4
+8,kol,1,mum,Kolkata Knight Riders,47,3,5
+8,kol,2,kol,Mumbai Indians,47,4,4
+8,del,1,del,Sunrisers Hyderabad,38,4,4
+8,del,2,hyd,Delhi Daredevils,51,3,4
+8,del,1,che,Rajasthan Royals,55,3,5
+8,Sawai Mansingh Stadium,2,rr,Chennai Super Kings,57,4,4
+8,Sawai Mansingh Stadium,1,kol,Kings XI Punjab,59,3,5
+8,Holkar Cricket Stadium,2,pun,Kolkata Knight Riders,58,3,4
+8,del,1,del,Royal Challengers Bangalore,44,4,3
+8,del,2,ban,Delhi Daredevils,58,4,4
+8,del,1,hyd,Chennai Super Kings,29,3,3
+8,Maharashtra Cricket Association Stadium,2,che,Sunrisers Hyderabad,53,2,4
+8,mum,1,mum,Rajasthan Royals,51,2,4
+8,mum,2,rr,Mumbai Indians,51,3,4
+8,mum,1,pun,Royal Challengers Bangalore,47,5,3
+8,Holkar Cricket Stadium,2,ban,Kings XI Punjab,66,2,4
+8,kol,1,rr,Kolkata Knight Riders,68,3,4
+8,kol,2,kol,Rajasthan Royals,51,4,3
+8,mum,1,mum,Kings XI Punjab,60,5,3
+8,mum,2,pun,Mumbai Indians,57,3,4
+8,mum,1,ban,Sunrisers Hyderabad,44,4,4
+8,ban,2,hyd,Royal Challengers Bangalore,56,3,4
+8,del,1,del,Chennai Super Kings,39,3,4
+8,del,2,che,Delhi Daredevils,44,2,4
+8,del,1,rr,Royal Challengers Bangalore,45,3,4
+8,Sawai Mansingh Stadium,2,ban,Rajasthan Royals,55,3,4
+8,hyd,1,hyd,Kolkata Knight Riders,60,2,5
+8,hyd,2,kol,Sunrisers Hyderabad,66,3,4
+8,del,1,del,Mumbai Indians,46,4,4
+8,del,2,mum,Delhi Daredevils,57,3,5
+8,del,1,pun,Chennai Super Kings,29,5,2
+8,Maharashtra Cricket Association Stadium,2,che,Kings XI Punjab,33,5,3
+8,mum,1,hyd,Chennai Super Kings,47,5,3
+8,mum,2,che,Sunrisers Hyderabad,33,5,3
+8,kol,1,kol,Rajasthan Royals,46,5,3
+8,kol,2,rr,Kolkata Knight Riders,51,3,4
+8,kol,1,hyd,Kolkata Knight Riders,45,2,4
+8,kol,2,kol,Sunrisers Hyderabad,67,3,3
+8,mum,1,hyd,Chennai Super Kings,42,3,3
+8,mum,2,che,Sunrisers Hyderabad,35,3,2
+9,del,1,mum,Delhi Capitals,57,2,4
+9,del,2,del,Mumbai Indians,48,2,5
+9,kol,1,ban,Kolkata Knight Riders,42,3,3
+9,kol,2,kol,Royal Challengers Bangalore,37,5,3
+9,kol,1,mum,Rajasthan Royals,46,3,5
+9,Sawai Mansingh Stadium,2,rr,Mumbai Indians,60,3,5
+9,del,1,pun,Delhi Capitals,50,4,3
+9,del,2,del,Kings XI Punjab,60,3,5
+9,hyd,1,kol,Sunrisers Hyderabad,61,4,4
+9,hyd,2,hyd,Kolkata Knight Riders,72,2,5
+9,hyd,1,ban,Chennai Super Kings,49,3,2
+9,ban,2,che,Royal Challengers Bangalore,32,6,3
+9,ban,1,rr,Delhi Capitals,52,2,3
+9,Sawai Mansingh Stadium,2,del,Rajasthan Royals,59,2,5
+9,che,1,hyd,Chennai Super Kings,54,3,2
+9,che,2,che,Sunrisers Hyderabad,49,3,4
+9,che,1,ban,Kings XI Punjab,70,3,2
+9,ban,2,pun,Royal Challengers Bangalore,68,3,4
+9,kol,1,kol,Rajasthan Royals,32,4,3
+9,kol,2,rr,Kolkata Knight Riders,55,3,5
+9,che,1,mum,Chennai Super Kings,45,3,2
+9,che,2,che,Mumbai Indians,40,5,4
+9,che,1,hyd,Rajasthan Royals,51,3,4
+9,Sawai Mansingh Stadium,2,rr,Sunrisers Hyderabad,60,2,5
+9,del,1,del,Royal Challengers Bangalore,59,3,4
+9,del,2,ban,Delhi Capitals,64,3,4
+9,kol,1,kol,Mumbai Indians,50,2,4
+9,kol,2,mum,Kolkata Knight Riders,41,4,3
+9,hyd,1,hyd,Kings XI Punjab,77,2,4
+9,hyd,2,pun,Sunrisers Hyderabad,44,3,4
+9,hyd,1,ban,Rajasthan Royals,62,8,5
+9,ban,2,rr,Royal Challengers Bangalore,41,2,4
+9,che,1,che,Delhi Capitals,27,3,4
+9,che,2,del,Chennai Super Kings,59,4,2
+9,mum,1,mum,Sunrisers Hyderabad,44,3,4
+9,mum,2,hyd,Mumbai Indians,59,4,3
+9,mum,3,hyd,Mumbai Indians,8,3,1
+9,mum,4,mum,Sunrisers Hyderabad,9,2,1
+9,pun,1,pun,Kolkata Knight Riders,41,4,3
+9,pun,2,kol,Kings XI Punjab,62,2,4
+9,del,1,rr,Delhi Capitals,30,6,3
+9,del,2,del,Rajasthan Royals,46,4,5
+9,del,1,hyd,Royal Challengers Bangalore,52,3,3
+9,ban,2,ban,Sunrisers Hyderabad,49,5,3
+9,pun,1,che,Kings XI Punjab,42,3,4
+9,pun,2,pun,Chennai Super Kings,68,2,3
+9,mum,1,kol,Mumbai Indians,49,2,5
+9,mum,2,mum,Kolkata Knight Riders,46,2,4
+9,che,1,che,Mumbai Indians,32,4,5
+9,che,2,mum,Chennai Super Kings,44,4,2
+9,che,1,hyd,Delhi Capitals,54,3,3
+9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,del,Sunrisers Hyderabad,55,2,4
+9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,del,Chennai Super Kings,41,4,3
+9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,che,Delhi Capitals,42,2,3
+9,hyd,1,mum,Chennai Super Kings,45,4,3
+9,hyd,2,che,Mumbai Indians,53,3,4
+10,hyd,1,mum,Chennai Super Kings,51,4,4
+10,Sheikh Zayed Stadium,2,che,Mumbai Indians,37,4,3
+10,Sheikh Zayed Stadium,1,del,Kings XI Punjab,23,5,3
+10,Dubai International Cricket Stadium,2,pun,Delhi Capitals,35,5,4
+10,Dubai International Cricket Stadium,3,pun,Delhi Capitals,2,2,1
+10,Dubai International Cricket Stadium,4,del,Kings XI Punjab,3,1,1
+10,Dubai International Cricket Stadium,1,ban,Sunrisers Hyderabad,53,2,5
+10,Dubai International Cricket Stadium,2,hyd,Royal Challengers Bangalore,48,3,3
+10,Dubai International Cricket Stadium,1,rr,Chennai Super Kings,54,3,3
+10,Sharjah Cricket Stadium,2,che,Rajasthan Royals,53,2,4
+10,Sharjah Cricket Stadium,1,mum,Kolkata Knight Riders,59,3,4
+10,Sheikh Zayed Stadium,2,kol,Mumbai Indians,33,4,4
+10,Sheikh Zayed Stadium,1,del,Chennai Super Kings,36,2,3
+10,Dubai International Cricket Stadium,2,che,Delhi Capitals,34,3,4
+10,Dubai International Cricket Stadium,1,pun,Royal Challengers Bangalore,50,2,3
+10,Dubai International Cricket Stadium,2,ban,Kings XI Punjab,40,5,3
+10,Dubai International Cricket Stadium,1,hyd,Kolkata Knight Riders,40,3,3
+10,Sheikh Zayed Stadium,2,kol,Sunrisers Hyderabad,52,4,3
+10,Sheikh Zayed Stadium,1,pun,Rajasthan Royals,60,2,3
+10,Sharjah Cricket Stadium,2,rr,Kings XI Punjab,69,3,4
+10,Sharjah Cricket Stadium,1,kol,Rajasthan Royals,42,3,4
+10,Dubai International Cricket Stadium,2,rr,Kolkata Knight Riders,39,4,3
+10,Dubai International Cricket Stadium,1,hyd,Delhi Capitals,38,2,4
+10,Sheikh Zayed Stadium,2,del,Sunrisers Hyderabad,34,3,3
+10,Sheikh Zayed Stadium,1,ban,Mumbai Indians,59,2,4
+10,Dubai International Cricket Stadium,2,mum,Royal Challengers Bangalore,35,4,3
+10,Dubai International Cricket Stadium,3,mum,Royal Challengers Bangalore,7,2,1
+10,Dubai International Cricket Stadium,4,ban,Mumbai Indians,11,2,1
+10,Dubai International Cricket Stadium,1,mum,Kings XI Punjab,41,4,4
+10,Sheikh Zayed Stadium,2,pun,Mumbai Indians,41,4,4
+10,Sheikh Zayed Stadium,1,hyd,Chennai Super Kings,42,3,3
+10,Dubai International Cricket Stadium,2,che,Sunrisers Hyderabad,36,4,3
+10,Dubai International Cricket Stadium,1,rr,Royal Challengers Bangalore,38,5,4
+10,Sheikh Zayed Stadium,2,ban,Rajasthan Royals,50,3,4
+10,Sheikh Zayed Stadium,1,del,Kolkata Knight Riders,57,2,4
+10,Sharjah Cricket Stadium,2,kol,Delhi Capitals,59,3,5
+10,Sharjah Cricket Stadium,1,pun,Chennai Super Kings,46,2,3
+10,Dubai International Cricket Stadium,2,che,Kings XI Punjab,60,2,4
+10,Dubai International Cricket Stadium,1,mum,Sunrisers Hyderabad,48,4,3
+10,Sharjah Cricket Stadium,2,hyd,Mumbai Indians,56,3,4
+10,Sharjah Cricket Stadium,1,del,Royal Challengers Bangalore,63,2,4
+10,Dubai International Cricket Stadium,2,ban,Delhi Capitals,43,4,5
+10,Dubai International Cricket Stadium,1,mum,Rajasthan Royals,57,3,5
+10,Sheikh Zayed Stadium,2,rr,Mumbai Indians,31,5,3
+10,Sheikh Zayed Stadium,1,kol,Chennai Super Kings,52,3,3
+10,Sheikh Zayed Stadium,2,che,Kolkata Knight Riders,54,3,2
+10,Sheikh Zayed Stadium,1,hyd,Kings XI Punjab,58,2,3
+10,Dubai International Cricket Stadium,2,pun,Sunrisers Hyderabad,45,4,3
+10,Dubai International Cricket Stadium,1,del,Rajasthan Royals,51,5,4
+10,Sharjah Cricket Stadium,2,rr,Delhi Capitals,41,3,4
+10,Sharjah Cricket Stadium,1,kol,Kings XI Punjab,25,4,3
+10,Sheikh Zayed Stadium,2,pun,Kolkata Knight Riders,47,2,3
+10,Sheikh Zayed Stadium,1,ban,Chennai Super Kings,36,3,3
+10,Dubai International Cricket Stadium,2,che,Royal Challengers Bangalore,26,4,4
+10,Dubai International Cricket Stadium,1,hyd,Rajasthan Royals,26,3,4
+10,Dubai International Cricket Stadium,2,rr,Sunrisers Hyderabad,36,5,3
+10,Dubai International Cricket Stadium,1,del,Mumbai Indians,46,4,4
+10,Sheikh Zayed Stadium,2,mum,Delhi Capitals,44,2,4
+10,Sheikh Zayed Stadium,1,ban,Kolkata Knight Riders,47,2,3
+10,Sharjah Cricket Stadium,2,kol,Royal Challengers Bangalore,43,3,4
+10,Sharjah Cricket Stadium,1,che,Sunrisers Hyderabad,44,4,3
+10,Dubai International Cricket Stadium,2,hyd,Chennai Super Kings,40,4,2
+10,Dubai International Cricket Stadium,1,del,Rajasthan Royals,47,4,4
+10,Dubai International Cricket Stadium,2,rr,Delhi Capitals,50,4,4
+10,Dubai International Cricket Stadium,1,ban,Kings XI Punjab,57,3,4
+10,Sharjah Cricket Stadium,2,pun,Royal Challengers Bangalore,56,2,4
+10,Sharjah Cricket Stadium,1,kol,Mumbai Indians,33,4,4
+10,Sheikh Zayed Stadium,2,mum,Kolkata Knight Riders,51,2,4
+10,Sheikh Zayed Stadium,1,che,Delhi Capitals,39,3,4
+10,Sharjah Cricket Stadium,2,del,Chennai Super Kings,41,4,3
+10,Sharjah Cricket Stadium,1,rr,Royal Challengers Bangalore,52,3,4
+10,Dubai International Cricket Stadium,2,ban,Rajasthan Royals,47,3,4
+10,Dubai International Cricket Stadium,1,kol,Sunrisers Hyderabad,48,2,3
+10,Sheikh Zayed Stadium,2,hyd,Kolkata Knight Riders,58,2,4
+10,Sheikh Zayed Stadium,3,hyd,Kolkata Knight Riders,2,2,1
+10,Sheikh Zayed Stadium,4,kol,Sunrisers Hyderabad,3,2,1
+10,Sheikh Zayed Stadium,1,mum,Kings XI Punjab,43,5,3
+10,Dubai International Cricket Stadium,2,pun,Mumbai Indians,51,3,4
+10,Dubai International Cricket Stadium,3,pun,Mumbai Indians,5,3,1
+10,Dubai International Cricket Stadium,4,mum,Kings XI Punjab,5,2,1
+10,Dubai International Cricket Stadium,5,mum,Kings XI Punjab,11,2,1
+10,Dubai International Cricket Stadium,6,pun,Mumbai Indians,15,2,1
+10,Dubai International Cricket Stadium,1,che,Rajasthan Royals,43,4,4
+10,Sheikh Zayed Stadium,2,rr,Chennai Super Kings,31,5,2
+10,Sheikh Zayed Stadium,1,del,Kings XI Punjab,53,3,4
+10,Dubai International Cricket Stadium,2,pun,Delhi Capitals,57,5,5
+10,Dubai International Cricket Stadium,1,kol,Royal Challengers Bangalore,17,6,3
+10,Sheikh Zayed Stadium,2,ban,Kolkata Knight Riders,44,2,3
+10,Sheikh Zayed Stadium,1,rr,Sunrisers Hyderabad,47,3,3
+10,Dubai International Cricket Stadium,2,hyd,Rajasthan Royals,58,4,4
+10,Dubai International Cricket Stadium,1,che,Mumbai Indians,24,7,3
+10,Sharjah Cricket Stadium,2,mum,Chennai Super Kings,52,2,3
+10,Sharjah Cricket Stadium,1,kol,Delhi Capitals,36,4,4
+10,Sheikh Zayed Stadium,2,del,Kolkata Knight Riders,36,4,3
+10,Sheikh Zayed Stadium,1,pun,Sunrisers Hyderabad,47,3,3
+10,Dubai International Cricket Stadium,2,hyd,Kings XI Punjab,52,2,3
+10,Dubai International Cricket Stadium,1,mum,Rajasthan Royals,59,3,3
+10,Sheikh Zayed Stadium,2,rr,Mumbai Indians,55,4,4
+10,Sheikh Zayed Stadium,1,ban,Chennai Super Kings,46,3,4
+10,Dubai International Cricket Stadium,2,che,Royal Challengers Bangalore,48,2,4
+10,Dubai International Cricket Stadium,1,kol,Kings XI Punjab,54,5,3
+10,Sharjah Cricket Stadium,2,pun,Kolkata Knight Riders,36,2,3
+10,Sharjah Cricket Stadium,1,hyd,Delhi Capitals,77,2,4
+10,Dubai International Cricket Stadium,2,del,Sunrisers Hyderabad,54,4,3
+10,Dubai International Cricket Stadium,1,ban,Mumbai Indians,54,2,4
+10,Sheikh Zayed Stadium,2,mum,Royal Challengers Bangalore,45,3,4
+10,Sheikh Zayed Stadium,1,kol,Chennai Super Kings,48,2,4
+10,Dubai International Cricket Stadium,2,che,Kolkata Knight Riders,44,2,5
+10,Dubai International Cricket Stadium,1,pun,Rajasthan Royals,53,3,3
+10,Sheikh Zayed Stadium,2,rr,Kings XI Punjab,66,3,4
+10,Sheikh Zayed Stadium,1,ban,Sunrisers Hyderabad,30,4,3
+10,Sharjah Cricket Stadium,2,hyd,Royal Challengers Bangalore,58,3,4
+10,Sharjah Cricket Stadium,1,ban,Delhi Capitals,40,3,4
+10,Sheikh Zayed Stadium,2,del,Royal Challengers Bangalore,53,3,4
+10,Sheikh Zayed Stadium,1,pun,Chennai Super Kings,53,3,4
+10,Sheikh Zayed Stadium,2,che,Kings XI Punjab,57,2,4
+10,Sheikh Zayed Stadium,1,kol,Rajasthan Royals,55,3,4
+10,Dubai International Cricket Stadium,2,rr,Kolkata Knight Riders,41,7,3
+10,Dubai International Cricket Stadium,1,del,Mumbai Indians,22,4,3
+10,Dubai International Cricket Stadium,2,mum,Delhi Capitals,38,2,4
+10,Dubai International Cricket Stadium,1,mum,Sunrisers Hyderabad,48,4,3
+10,Sharjah Cricket Stadium,2,hyd,Mumbai Indians,56,2,4
+10,Sharjah Cricket Stadium,1,mum,Delhi Capitals,63,3,5
+10,Dubai International Cricket Stadium,2,del,Mumbai Indians,32,6,4
+10,Dubai International Cricket Stadium,1,ban,Sunrisers Hyderabad,32,4,3
+10,Sheikh Zayed Stadium,2,hyd,Royal Challengers Bangalore,48,4,3
+10,Sheikh Zayed Stadium,1,del,Sunrisers Hyderabad,65,2,3
+10,Sheikh Zayed Stadium,2,hyd,Delhi Capitals,49,5,4
+10,Sheikh Zayed Stadium,1,del,Mumbai Indians,41,5,4
+10,Dubai International Cricket Stadium,2,mum,Delhi Capitals,61,3,5
+11,che,1,mum,Royal Challengers Bangalore,41,3,3
+11,che,2,ban,Mumbai Indians,46,4,4
+11,mum,1,che,Delhi Capitals,33,4,4
+11,mum,2,del,Chennai Super Kings,65,2,3
+11,che,1,kol,Sunrisers Hyderabad,50,2,4
+11,che,2,hyd,Kolkata Knight Riders,35,4,4
+11,mum,1,pun,Rajasthan Royals,46,3,3
+11,mum,2,rr,Punjab Kings,59,4,4
+11,che,1,mum,Kolkata Knight Riders,42,3,4
+11,che,2,kol,Mumbai Indians,45,2,4
+11,che,1,ban,Sunrisers Hyderabad,47,3,4
+11,che,2,hyd,Royal Challengers Bangalore,50,3,3
+11,mum,1,del,Rajasthan Royals,36,5,3
+11,mum,2,rr,Delhi Capitals,26,5,3
+11,mum,1,pun,Chennai Super Kings,26,6,3
+11,mum,2,che,Punjab Kings,32,3,4
+11,che,1,mum,Sunrisers Hyderabad,53,2,4
+11,che,2,hyd,Mumbai Indians,57,2,4
+11,che,1,ban,Kolkata Knight Riders,45,4,4
+11,che,2,kol,Royal Challengers Bangalore,57,3,4
+11,mum,1,pun,Delhi Capitals,59,2,4
+11,mum,2,del,Punjab Kings,62,3,4
+11,mum,1,che,Rajasthan Royals,46,3,4
+11,mum,2,rr,Chennai Super Kings,45,4,2
+11,che,1,mum,Delhi Capitals,55,3,4
+11,che,2,del,Mumbai Indians,39,3,4
+11,che,1,pun,Sunrisers Hyderabad,32,3,4
+11,che,2,hyd,Punjab Kings,50,2,4
+11,mum,1,che,Kolkata Knight Riders,54,2,4
+11,mum,2,kol,Chennai Super Kings,45,6,3
+11,mum,1,rr,Royal Challengers Bangalore,32,5,3
+11,mum,2,ban,Rajasthan Royals,59,2,4
+11,che,1,mum,Punjab Kings,21,3,3
+11,che,2,pun,Mumbai Indians,45,2,4
+11,mum,1,kol,Rajasthan Royals,25,2,4
+11,mum,2,rr,Kolkata Knight Riders,50,4,4
+11,mum,1,che,Royal Challengers Bangalore,51,2,4
+11,mum,2,ban,Chennai Super Kings,65,4,3
+11,che,1,del,Sunrisers Hyderabad,51,2,4
+11,che,2,hyd,Delhi Capitals,56,4,5
+11,che,3,hyd,Delhi Capitals,7,2,1
+11,che,4,del,Sunrisers Hyderabad,8,2,1
+11,ahm,1,pun,Kolkata Knight Riders,37,2,3
+11,ahm,2,kol,Punjab Kings,42,5,3
+11,ahm,1,ban,Delhi Capitals,36,4,3
+11,ahm,2,del,Royal Challengers Bangalore,43,4,3
+11,del,1,hyd,Chennai Super Kings,39,3,2
+11,del,2,che,Sunrisers Hyderabad,50,2,3
+11,del,1,rr,Mumbai Indians,47,2,4
+11,del,2,mum,Rajasthan Royals,49,2,4
+11,ahm,1,kol,Delhi Capitals,45,3,4
+11,ahm,2,del,Kolkata Knight Riders,67,2,5
+11,ahm,1,pun,Royal Challengers Bangalore,49,3,3
+11,ahm,2,ban,Punjab Kings,35,3,3
+11,del,1,che,Mumbai Indians,49,3,3
+11,del,2,mum,Chennai Super Kings,58,2,3

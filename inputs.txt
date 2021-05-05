@@ -1,0 +1,27 @@
+#TODO: Fix Match No, Gaussian Distribution, DNN 
+
+
+1.venue
+2.season
+3.innings
+4.over stats:(batsmen and bowler no need to match)
+
+#ipl edition no. as 1,2,3...14
+#match no. for batting team
+#venue set as average runs scored in venue in 6 overs
+#innings
+#no. of batsmen
+#no. of bowlers
+#batting team name
+#output is runs scored in 6 overs by batting team
+
+The standard inputs are name of venue innings number
+Two Types:
+1. For Bowler Prediction: runs in 6 overs, all other batsmen in 6 overs  
+2. For Batsman Prediction: runs in 6 overs, all other bowlers in 6 overs 
+
+Finally display runs as output:
+Type 1: Add all runs of bowlers
+Type 2: Add runs of Batsmen
+
+Assign index to each player so that bowler wicket and batsman runs can be fed into system
