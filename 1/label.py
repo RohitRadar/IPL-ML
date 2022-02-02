@@ -5,7 +5,7 @@ data = pd.read_csv('1/clean1.csv', sep=",")
 data = data[['season', 'venue', 'innings', 'batting_team', 'bowling_team', 'runs','batsmen','bowlers']]
 length = data.shape[0]
 
-file1 = open('1/clean2.csv', 'w', newline='')
+file1 = open('1/label.csv', 'w', newline='')
 writer = csv.writer(file1)
 writer.writerow(['season', 'matchno', 'venue', 'innings', 'batting_team', 'runs','batsmen','bowlers'])
 
@@ -61,33 +61,20 @@ while(i!=length-1):
 file1.close
 
 """
-i = 0
-venuelength = []
-scorelist = []
-venuelist = []
-while(i!=length-1):
-    venue = data.iloc[i,1]
-    if venue not in venuelist:
-        venuelist.append(venue)
-        scorelist.append(0)
-        venuelength.append(0)
-    score = data.iloc[i,5]
-    a = venuelist.index(venue)
-    scorelist[a] = scorelist[a] + score
-    venuelength[a] = venuelength[a] + 1
-    i=i+1
-
-
-for i in range(0,len(venuelength)):
-    scorelist[i] = scorelist[i]/venuelength[i] 
-    print(venuelist[i],"'s runs : ",scorelist[i])
-
-i = 0
-while(i!=length):
-    ven = data.iloc[i,1]
-    a = venuelist.index(ven)
-    venue = scorelist[a]
-    writer.writerow([data.iloc[i,0], venue, data.iloc[i,2], data.iloc[i,3], data.iloc[i,5], data.iloc[i,6], data.iloc[i,7]])
-    i=i+1
+if mat == "che":
+            onehot[0] = 1
+        elif mat == "ban":
+            onehot[1] = 1
+        elif mat == "del":
+            onehot[2] = 1
+        elif mat == "hyd":
+            onehot[3] = 1
+        elif mat == "kol":
+            onehot[4] = 1
+        elif mat == "mum":
+            onehot[5] = 1
+        elif mat == "pun":
+            onehot[6] = 1
+        else:
+            onehot[7] = 1
 """
-
